@@ -1,0 +1,39 @@
+### 题目
+给定一个字符串，找到最长无重复子字符串。
+
+举例：
+
++ 给定的“abcabcbb”，答案是“abc”，长度为3。
++ 给定的“bbbbb”，答案是"b"，长度为1。
++ 给定的“pwwkew”，答案是"wke"，长度为3。注意是最长子字符串，不是最长子序列"pwke"。
+### 思路
+设立两个指针a,b(a代表start,b代表end),length代表无重复长度,result代表返回结果。b不断地向右移动，如果出现对应的值重复，a出现在对应位置的下一个位置，以此筛选出最长无重复字串长度。
+```
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        //a代表起始，b代表结束
+        int a = 0,b = 0;
+        int length = 0,result = 0;
+        int size = int(s.size());
+        while(b < size)
+        {
+            char tmp = s[b];
+            for(int index = a; index < b; index++)
+            {
+                if (tmp == s[index])
+                {
+                    a = index + 1;
+                    length = b - a;
+                    break;
+                }
+            }
+            b++;
+            length++;
+            result = max(result,length);
+        }
+        return result;
+        
+    }
+};
+```
