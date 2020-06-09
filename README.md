@@ -3,10 +3,10 @@
 ### 并查集模板
 
 ```
-class unionFind{
+class UnionFind{
     public:
         vector<int>father;
-        unionFind(int num){
+        UnionFind(int num){
             for(int i = 0; i < num ; i++)
                 father.push_back(i);//箭头指向自己
         }
