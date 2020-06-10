@@ -1,6 +1,6 @@
 # Future_Work
 用于以后找工作相关事宜
-### 并查集模板
+### 并查集模板(C++)
 
 ```
 class unionFind{
