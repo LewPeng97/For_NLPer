@@ -1,6 +1,6 @@
 ### C++中比较难理解的地方
 1、构造函数？
-'''
+```
 #include <iostream>
  
 using namespace std;
@@ -42,13 +42,12 @@ int main( )
  
    return 0;
 }
-
-'''
+```
 当上面的代码被编译和执行时，它会产生下列结果：
-'''
+```
 Object is being created
 Length of line : 6
-'''
+```
 2、析构函数？
 
 3、拷贝构造函数？
