@@ -1,4 +1,4 @@
-**<font color=red>该文件仅针对LewPeng个人，记录LeetCode较难编程题</font>**
+## 该文件仅针对LewPeng个人，记录LeetCode较难编程题
 ### 题目
 | ID | Difficulty | Title | Python3 | C++ |
 | ------ | ------ | ------ | ------ | ------ |
