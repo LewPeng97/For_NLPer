@@ -1,4 +1,4 @@
-## 该文件仅针对LewPeng个人，记录LeetCode较难编程题
+## 该文件仅针对LewPeng用户，记录LeetCode较难编程题
 ### 题目
 | ID | Difficulty | Title | Python3 | C++ |
 | ------ | ------ | ------ | ------ | ------ |
