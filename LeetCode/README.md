@@ -7,6 +7,9 @@
 | 005 | middle | 最长回文子串 | [Python3](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/005(Python3).md) | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/005(C%2B%2B).md) |
 | 006 | middle | Z 字形变换 | [Python3](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/006(Python3).md) | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/006(C%2B%2B).md) |
 | 343 | middle | 整数拆分 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/343(C%2B%2B).md)
+#### 双指针
+| ID | Difficulty | Title | Python3 | C++ |
+| ------ | ------ | ------ | ------ | ------ |
 #### 排序
 | ID | Difficulty | Title | Python3 | C++ |
 | ------ | ------ | ------ | ------ | ------ |
@@ -17,4 +20,18 @@
 | ID | Difficulty | Title | Python3 | C++ |
 | ------ | ------ | ------ | ------ | ------ |
 | 983 | middle | 最低票价 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md)
-
+#### 二分查找
+| ID | Difficulty | Title | Python3 | C++ |
+| ------ | ------ | ------ | ------ | ------ |
+#### 分治
+| ID | Difficulty | Title | Python3 | C++ |
+| ------ | ------ | ------ | ------ | ------ |
+#### 搜索
+| ID | Difficulty | Title | Python3 | C++ |
+| ------ | ------ | ------ | ------ | ------ |
+#### 动态规划
+| ID | Difficulty | Title | Python3 | C++ |
+| ------ | ------ | ------ | ------ | ------ |
+#### 数学
+| ID | Difficulty | Title | Python3 | C++ |
+| ------ | ------ | ------ | ------ | ------ |
