@@ -10,5 +10,5 @@
 | 215 | middle | 数组中的第K个最大元素 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/215%E3%80%81%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md)
 | 347 | middle | 前 K 个高频元素 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/347.%20%E5%89%8D%20K%20%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md)
 | 75 | middle | 颜色分类 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md)
-| 983 | middle | 最低票价 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md))
+| 983 | middle | 最低票价 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md)
 
