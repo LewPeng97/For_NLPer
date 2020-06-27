@@ -18,6 +18,7 @@
 | 75 | middle | 颜色分类 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md)
 #### 贪心思想
 * 个人感觉有点困难呀
+
 | ID | Difficulty | Title | Python3 | C++ |
 | ------ | ------ | ------ | ------ | ------ |
 | 983 | middle | 最低票价 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md)
