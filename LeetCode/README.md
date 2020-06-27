@@ -20,6 +20,7 @@
 | ID | Difficulty | Title | Python3 | C++ |
 | ------ | ------ | ------ | ------ | ------ |
 | 983 | middle | 最低票价 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.md)
+| 452 | middle | 用最少数量的箭引爆气球 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/452.%20%E7%94%A8%E6%9C%80%E5%B0%91%E6%95%B0%E9%87%8F%E7%9A%84%E7%AE%AD%E5%BC%95%E7%88%86%E6%B0%94%E7%90%83.md)
 #### 二分查找
 | ID | Difficulty | Title | Python3 | C++ |
 | ------ | ------ | ------ | ------ | ------ |
