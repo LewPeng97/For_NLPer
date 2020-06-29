@@ -30,6 +30,9 @@
 #### 二分查找
 | ID | Difficulty | Title | Python3 | C++ |
 | ------ | ------ | ------ | ------ | ------ |
+| 69 | easy | x 的平方根 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/605.%20%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.md)
+| 540 | easy | 有序数组中的单一元素 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/605.%20%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.md)
+| 744 | easy | 寻找比目标字母大的最小字母 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/605.%20%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.md)
 #### 分治
 | ID | Difficulty | Title | Python3 | C++ |
 | ------ | ------ | ------ | ------ | ------ |
