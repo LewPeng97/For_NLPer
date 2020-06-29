@@ -30,9 +30,10 @@
 #### 二分查找
 | ID | Difficulty | Title | Python3 | C++ |
 | ------ | ------ | ------ | ------ | ------ |
-| 69 | easy | x 的平方根 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/605.%20%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.md)
-| 540 | easy | 有序数组中的单一元素 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/605.%20%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.md)
-| 744 | easy | 寻找比目标字母大的最小字母 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/605.%20%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.md)
+| 69 | easy | x 的平方根 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/69.%20x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.md)
+| 744 | easy | 寻找比目标字母大的最小字母 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/744.%20%E5%AF%BB%E6%89%BE%E6%AF%94%E7%9B%AE%E6%A0%87%E5%AD%97%E6%AF%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D.md)
+| 540 | middle | 有序数组中的单一元素 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/540.%20%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%8D%95%E4%B8%80%E5%85%83%E7%B4%A0.md)
+
 #### 分治
 | ID | Difficulty | Title | Python3 | C++ |
 | ------ | ------ | ------ | ------ | ------ |
