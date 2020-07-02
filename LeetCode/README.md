@@ -33,6 +33,7 @@
 | 69 | easy | x 的平方根 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/69.%20x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.md)
 | 744 | easy | 寻找比目标字母大的最小字母 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/744.%20%E5%AF%BB%E6%89%BE%E6%AF%94%E7%9B%AE%E6%A0%87%E5%AD%97%E6%AF%8D%E5%A4%A7%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%97%E6%AF%8D.md)
 | 540 | middle | 有序数组中的单一元素 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/540.%20%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%8D%95%E4%B8%80%E5%85%83%E7%B4%A0.md)
+| 34 | middle | 在排序数组中查找元素的第一个和最后一个位置 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/34.%20%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.md)
 
 #### 分治
 | ID | Difficulty | Title | Python3 | C++ |
