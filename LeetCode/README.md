@@ -38,6 +38,7 @@
 #### 分治
 | ID | Difficulty | Title | Python3 | C++ |
 | ------ | ------ | ------ | ------ | ------ |
+| 241 | middle | 为运算表达式设计优先级 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/241.%20%E4%B8%BA%E8%BF%90%E7%AE%97%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%AE%BE%E8%AE%A1%E4%BC%98%E5%85%88%E7%BA%A7.md)
 #### 搜索
 | ID | Difficulty | Title | Python3 | C++ |
 | ------ | ------ | ------ | ------ | ------ |
