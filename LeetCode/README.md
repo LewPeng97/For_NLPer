@@ -47,6 +47,7 @@
 | :-: | :-: | :-: | :-: | :-: |
 | 1091 | middle | 二进制矩阵中的最短路径 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/1091.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84.md)
 | 279 | middle | 完全平方数 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)
+| 473 | middle | 火柴拼正方形 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/473.%20%E7%81%AB%E6%9F%B4%E6%8B%BC%E6%AD%A3%E6%96%B9%E5%BD%A2.md)
 #### 动态规划
 | ID | Difficulty | Title | Python3 | C++ |
 | :-: | :-: | :-: | :-: | :-: |
