@@ -53,3 +53,7 @@
 #### 数学
 | ID | Difficulty | Title | Python3 | C++ |
 | :-: | :-: | :-: | :-: | :-: |
+#### 哈希表
+| ID | Difficulty | Title | Python3 | C++ |
+| :-: | :-: | :-: | :-: | :-: |
+| 447 | easy | 回旋镖的数量 |  Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)
