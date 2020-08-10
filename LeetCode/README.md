@@ -58,3 +58,9 @@
 | ID | Difficulty | Title | Python3 | C++ |
 | :-: | :-: | :-: | :-: | :-: |
 | 447 | easy | 回旋镖的数量 |  Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/447.%20%E5%9B%9E%E6%97%8B%E9%95%96%E7%9A%84%E6%95%B0%E9%87%8F.md)
+
+#### 链表
+| ID | Difficulty | Title | Python3 | C++ |
+| :-: | :-: | :-: | :-: | :-: |
+| 160 | easy | 相交链表 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/473.%20%E7%81%AB%E6%9F%B4%E6%8B%BC%E6%AD%A3%E6%96%B9%E5%BD%A2.md)
+| 206 | easy | 反转链表 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/473.%20%E7%81%AB%E6%9F%B4%E6%8B%BC%E6%AD%A3%E6%96%B9%E5%BD%A2.md)
