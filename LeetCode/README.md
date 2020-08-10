@@ -62,5 +62,5 @@
 #### 链表
 | ID | Difficulty | Title | Python3 | C++ |
 | :-: | :-: | :-: | :-: | :-: |
-| 160 | easy | 相交链表 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/473.%20%E7%81%AB%E6%9F%B4%E6%8B%BC%E6%AD%A3%E6%96%B9%E5%BD%A2.md)
-| 206 | easy | 反转链表 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/473.%20%E7%81%AB%E6%9F%B4%E6%8B%BC%E6%AD%A3%E6%96%B9%E5%BD%A2.md)
+| 160 | easy | 相交链表 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md)
+| 206 | easy | 反转链表 | Python3 | [C++](https://github.com/LewPeng97/Future_Work/blob/master/LeetCode/206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
